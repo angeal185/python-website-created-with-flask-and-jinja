@@ -1,0 +1,13 @@
+{% extends "layout.jnj" %}
+{% block content %}
+{% include "includes/featured.jnj" %}
+{% include "includes/services.jnj" %}
+<div class="c-logo-part parallax1"></div>
+{% include "includes/reviews.jnj" %}
+{% include "includes/about.jnj" %}
+{% include "snippets/parallax-callout.jnj" %}
+{% include "includes/portfolio.jnj" %}
+{% include "snippets/carousel.jnj" %}
+{% include "includes/contact.jnj" %} 
+{% include "includes/gmap.jnj" %}    
+{% endblock %}
