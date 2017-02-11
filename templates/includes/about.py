@@ -10,7 +10,7 @@
 		</div>
 		<div class="c-logo-part parallax1"></div>
 		<div class="row align-center mar-bot40 pad-top40">
-		{% include "snippets/team.jnj" %} 
+		{% include "snippets/team.py" %} 
 		</div>
 		<div class="row">
 			<div class="col-lg-12">
