@@ -10,12 +10,12 @@
 		</div>
 		<div class="c-logo-part parallax1"></div>
 		<div class="row mar-bot40 pad-top15">
-		{% include "snippets/service.jnj" %}	
+		{% include "snippets/service.py" %}	
 		</div>
 		<div class="c-logo-part parallax1"></div>
 		<div class="container pad-top15">
 			<div class="row mar-bot40">
-				{% include "snippets/service.jnj" %}
+				{% include "snippets/service.py" %}
 			</div>
 		</div>
 	</div>
