@@ -13,9 +13,9 @@ layout_args = {
 
 @application.route("/")	
 @application.route("/index")
-@application.route("/index.jnj")
+@application.route("/index.py")
 def home():
-    return render_template("index.jnj", gallery=info.gallery, filter=info.filter, portfolio=info.portfolio, clogo=info.clogo, team=info.team, carousel=info.carousel, headings=info.headings, lorem=info.lorem, service=info.service, **layout_args)
+    return render_template("index.py", gallery=info.gallery, filter=info.filter, portfolio=info.portfolio, clogo=info.clogo, team=info.team, carousel=info.carousel, headings=info.headings, lorem=info.lorem, service=info.service, **layout_args)
 
 
 if __name__ == "__main__":
