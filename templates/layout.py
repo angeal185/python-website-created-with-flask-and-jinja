@@ -27,17 +27,11 @@
 </head>
 <body>
 <section id="header" class="js-scroll-step"></section>
-{% include "includes/nav.jnj" %}
+{% include "includes/nav.py" %}
 {% block content %}{% endblock %}
-{% include "includes/footer.jnj" %}
+{% include "includes/footer.py" %}
 <button class="Scroll-to-top">Scroll To Top</button>
-{% include "includes/js-bottom.jnj" %}
-
-
-
-
-
-
+{% include "includes/js-bottom.py" %}
 </script>
 </body>
 </html>
