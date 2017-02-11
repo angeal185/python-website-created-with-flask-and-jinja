@@ -1,4 +1,4 @@
-﻿<form action="" method="post" role="form" class="contactForm">
+<form action="" method="post" role="form" class="contactForm">
 	<div class="form-group">
 		<label for="name">{{ contact.name }}</label>
 		<input type="text" name="name" class="form-control" id="name" placeholder="{{ contact.name }}">
