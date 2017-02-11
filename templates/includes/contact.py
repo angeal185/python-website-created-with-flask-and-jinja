@@ -12,7 +12,7 @@
 		<div class="row pad-top40">
 			<div class="col-md-8 col-md-offset-2">
 				<div id="contact-form" class="cform wow fadeIn" data-wow-delay="1s">
-				{% include "snippets/contact-form.jnj" %}
+				{% include "snippets/contact-form.py" %}
 				</div>
 			</div>
 		</div> 
