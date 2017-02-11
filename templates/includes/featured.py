@@ -1,4 +1,4 @@
-﻿<section class="featured">
+<section class="featured">
 	<div class="container">
 		<div class="row mar-bot40">
 			<div class="col-md-6 col-md-offset-3">
