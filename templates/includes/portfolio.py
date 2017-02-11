@@ -18,7 +18,7 @@
 			<div class="col-md-12">
 				<div class="row">
 					<div class="portfolio-items parallax1 isotopeWrapper clearfix" id="3">
-						{% include "snippets/portfolio.jnj" %}
+						{% include "snippets/portfolio.py" %}
 					</div>
 				</div>
 			</div>
